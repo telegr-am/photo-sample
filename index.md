@@ -14,7 +14,7 @@ for information on how to set up your site.
     </div>
     <script type="text/javascript">
     $(function() {
-    $(".anyClass").jCarouselLite({
+    $("#pictures").jCarouselLite({
        
     });
 });</script>
