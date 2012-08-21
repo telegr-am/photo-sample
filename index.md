@@ -9,7 +9,7 @@ for information on how to set up your site.
     </head_place>
     <div id="pictures">
     <ul data-lift="group?by=carousel">
-      <li data-post="item"><img data-post="img" height="480" src="#"></li>
+      <li data-post="item"><img data-post="img" height="167" width="250" src="#"></li>
     </ul>
     </div>
     <script type="text/javascript">
